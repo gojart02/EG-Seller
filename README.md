@@ -1,1 +1,2 @@
-# EG-Seller
+This is for university project
+
